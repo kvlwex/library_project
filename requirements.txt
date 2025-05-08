@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+prompt_toolkit
+tabulate
+requests
+pytest

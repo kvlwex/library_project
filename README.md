@@ -1,1 +1,3 @@
-# library_project
+# Library Management System
+
+Project scaffold.
